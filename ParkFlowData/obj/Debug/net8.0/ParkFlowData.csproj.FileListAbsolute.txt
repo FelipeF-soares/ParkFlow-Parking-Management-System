@@ -30,3 +30,5 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\refint\ParkFlowData.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.pdb
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ref\ParkFlowData.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.runtimeconfig.json
+F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.genruntimeconfig.cache

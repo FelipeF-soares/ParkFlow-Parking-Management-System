@@ -464,3 +464,13 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\refint\Pa
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ParkFlowApplication.pdb
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ParkFlowApplication.genruntimeconfig.cache
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ref\ParkFlowApplication.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\MySqlConnector.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

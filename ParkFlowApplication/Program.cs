@@ -1,7 +1,16 @@
+using Microsoft.EntityFrameworkCore;
+using ParkFlowData.DataBaseContext;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+string stringConnection = builder.Configuration.GetConnectionString("Default");
+builder.Services.AddDbContext<ParkFlowContext>
+    (
+        option => option.UseMySql(stringConnection,ServerVersion.AutoDetect(stringConnection))
+    );
 
 var app = builder.Build();
 
