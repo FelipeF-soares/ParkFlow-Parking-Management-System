@@ -1,0 +1,16 @@
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.deps.json
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.dll
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.pdb
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowModels.dll
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowModels.pdb
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.csproj.AssemblyReference.cache
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.AssemblyInfoInputs.cache
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.AssemblyInfo.cs
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.csproj.CoreCompileInputs.cache
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.sourcelink.json
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlow.3CED9B7E.Up2Date
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.dll
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\refint\ParkFlowData.dll
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.pdb
+C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ref\ParkFlowData.dll

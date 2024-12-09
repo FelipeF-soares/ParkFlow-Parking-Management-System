@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParkFlowData/1.0.0": {
+        "dependencies": {
+          "ParkFlowModels": "1.0.0"
+        },
+        "runtime": {
+          "ParkFlowData.dll": {}
+        }
+      },
+      "ParkFlowModels/1.0.0": {
+        "runtime": {
+          "ParkFlowModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkFlowData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParkFlowModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
