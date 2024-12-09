@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github\\Algortimos\\ParkFlowApplication\\",
+  "WorkspaceRootPath": "F:\\0.Projetos\\ParkFlowApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|c:\\github\\algortimos\\parkflowapplication\\parkflowapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|f:\\0.projetos\\parkflowapplication\\parkflowmodels\\event\\entryexitaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|solutionrelative:parkflowmodels\\event\\entryexitaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|f:\\0.projetos\\parkflowapplication\\parkflowmodels\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|solutionrelative:parkflowmodels\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|f:\\0.projetos\\parkflowapplication\\parkflowapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|solutionrelative:parkflowapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EntryExitAccess.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Event\\EntryExitAccess.cs",
+              "RelativeDocumentMoniker": "ParkFlowModels\\Event\\EntryExitAccess.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Event\\EntryExitAccess.cs",
+              "RelativeToolTip": "ParkFlowModels\\Event\\EntryExitAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:16:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Thing\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ParkFlowModels\\Thing\\Vehicle.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Thing\\Vehicle.cs",
+              "RelativeToolTip": "ParkFlowModels\\Thing\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:10:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\github\\Algortimos\\ParkFlowApplication\\ParkFlowApplication\\Program.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Program.cs",
               "RelativeDocumentMoniker": "ParkFlowApplication\\Program.cs",
-              "ToolTip": "C:\\github\\Algortimos\\ParkFlowApplication\\ParkFlowApplication\\Program.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Program.cs",
               "RelativeToolTip": "ParkFlowApplication\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:52:45.238Z",
               "EditorCaption": ""
