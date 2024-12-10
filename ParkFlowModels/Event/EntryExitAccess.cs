@@ -13,12 +13,8 @@ public class EntryExitAccess
 {
     [Key]
     public int Id { get; set; }
-    [Required]
-    [DisplayName("Entrada")]
-    public DateTime EntryTime { get; set; }
-    [Required]
-    [DisplayName("Saída")]
-    public DateTime ExitTime { get; set; }
+    public DateTime? EntryTime { get; set; }
+    public DateTime? ExitTime { get; set; }
     public bool Status { get; set; }
     public int VehicleId { get; set; }
     public virtual Vehicle Vehicle { get; set; }

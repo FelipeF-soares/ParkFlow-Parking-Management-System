@@ -1,0 +1,54 @@
+﻿@model EntryExitAccess
+
+<div class="container">
+    <div class="card shadow">
+        <div class="card-header">
+            <div class="row p-2">
+                <div class="col-10">
+                    <h3>Registro de Veículos</h3>
+                </div>
+                <div class="col-2">
+                    <a class="btn btn-secondary btn-sm" asp-area="Admin" asp-controller="AccessRegister" asp-action="AddVehicle">Cadastrar Veículo</a>
+                </div>
+            </div>
+        </div>
+        <div class="card-body p-2">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label>Localizar Veículo:</label>
+                        <form class="d-flex" asp-action="Index" method="post">
+                            <input class="form-control me-2" type="search" id="licensePlate" placeholder="Placa" />
+                            <button class="btn btn-outline-success" type="submit">Buscar</button>
+                        </form>
+                       <small class="form-text text-muted">Digíte sem pontuação.</small>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <form asp-action="Register" method="post">
+                        <input asp-for="@Model.VehicleId" hidden />
+                        <div class="mb-3">
+                            <label asp-for="@Model.Vehicle.LicensePlate" class="form-label"></label>
+                            <input asp-for="@Model.Vehicle.LicensePlate" class="form-control" readonly>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="@Model.Vehicle.Brand" class="form-label"></label>
+                            <input asp-for="@Model.Vehicle.Brand" class="form-control" readonly>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="@Model.Vehicle.Model" class="form-label"></label>
+                            <input asp-for="@Model.Vehicle.Model" class="form-control" readonly>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="@Model.Vehicle.Color" class="form-label"></label>
+                            <input asp-for="@Model.Vehicle.Color" class="form-control" readonly>
+                        </div>
+                        <button class="btn btn-outline-success" type="submit">Registrar entrada</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

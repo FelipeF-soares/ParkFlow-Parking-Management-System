@@ -1,0 +1,30 @@
+﻿@model Vehicle
+
+<div class="container">
+    <div class="card shadow">
+        <div class="card-header">
+            <h3>Cadastrar Veículo</h3>
+        </div>
+        <div class="card-body">
+            <form asp-action="AddVehicle" method="post">
+                <div class="mb-3">
+                    <label asp-for="@Model.LicensePlate" class="form-label"></label>
+                    <input asp-for="@Model.LicensePlate" class="form-control" >
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Brand" class="form-label"></label>
+                    <input asp-for="@Model.Brand" class="form-control" >
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Model" class="form-label"></label>
+                    <input asp-for="@Model.Model" class="form-control" >
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Color" class="form-label"></label>
+                    <input asp-for="@Model.Color" class="form-control" >
+                </div>
+                <button class="btn btn-outline-success" type="submit">Cadastrar</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -12,8 +12,8 @@ using ParkFlowData.DataBaseContext;
 namespace ParkFlowData.Migrations
 {
     [DbContext(typeof(ParkFlowContext))]
-    [Migration("20241209220905_CreateNewDbParkFlow")]
-    partial class CreateNewDbParkFlow
+    [Migration("20241210144036_NewBD")]
+    partial class NewBD
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,10 +33,10 @@ namespace ParkFlowData.Migrations
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("EntryTime")
+                    b.Property<DateTime?>("EntryTime")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<DateTime>("ExitTime")
+                    b.Property<DateTime?>("ExitTime")
                         .HasColumnType("datetime(6)");
 
                     b.Property<bool>("Status")

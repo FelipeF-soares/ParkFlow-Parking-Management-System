@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ParkFlowData.Migrations
 {
     /// <inheritdoc />
-    public partial class CreateNewDbParkFlow : Migration
+    public partial class NewBD : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -42,8 +42,8 @@ namespace ParkFlowData.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    EntryTime = table.Column<DateTime>(type: "datetime(6)", nullable: false),
-                    ExitTime = table.Column<DateTime>(type: "datetime(6)", nullable: false),
+                    EntryTime = table.Column<DateTime>(type: "datetime(6)", nullable: true),
+                    ExitTime = table.Column<DateTime>(type: "datetime(6)", nullable: true),
                     Status = table.Column<bool>(type: "tinyint(1)", nullable: false),
                     VehicleId = table.Column<int>(type: "int", nullable: false)
                 },

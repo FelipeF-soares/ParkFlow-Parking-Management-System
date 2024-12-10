@@ -30,10 +30,10 @@ namespace ParkFlowData.Migrations
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("EntryTime")
+                    b.Property<DateTime?>("EntryTime")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<DateTime>("ExitTime")
+                    b.Property<DateTime?>("ExitTime")
                         .HasColumnType("datetime(6)");
 
                     b.Property<bool>("Status")

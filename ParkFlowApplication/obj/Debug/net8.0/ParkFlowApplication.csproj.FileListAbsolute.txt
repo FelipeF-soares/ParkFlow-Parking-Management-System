@@ -474,3 +474,4 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\MySqlConnector.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
