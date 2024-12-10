@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using ParkFlowData.Repository.Interfaces;
 using ParkFlowModels.Event;
 using ParkFlowModels.Thing;
@@ -49,8 +50,19 @@ public class AccessRegisterController : Controller
     [HttpPost]
     public IActionResult AddVehicle(Vehicle vehicle)
     {
-        vehicleGenericPersist.Add(vehicle);
-        vehicleGenericPersist.SaveChanges();
-        return RedirectToAction("Index", "AccessRegister", new { licensePlate = vehicle.LicensePlate});
+        if(ModelState.IsValid)
+        {
+            try
+            {
+                vehicleGenericPersist.Add(vehicle);
+                vehicleGenericPersist.SaveChanges();
+                return RedirectToAction("Index", "AccessRegister", new { licensePlate = vehicle.LicensePlate });
+            }
+            catch (DbUpdateException)
+            {
+                ModelState.AddModelError("LicensePlate","Veículo já Cadastrado Verifique!");
+            }
+        }
+        return View(vehicle);
     }
 }

@@ -10,18 +10,53 @@
                 <div class="mb-3">
                     <label asp-for="@Model.LicensePlate" class="form-label"></label>
                     <input asp-for="@Model.LicensePlate" class="form-control" >
+                    <span asp-validation-for="@Model.LicensePlate" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
-                    <label asp-for="@Model.Brand" class="form-label"></label>
-                    <input asp-for="@Model.Brand" class="form-control" >
+                    <select asp-for="@Model.Brand" class="form-select" aria-label="Default select example">
+                        <option disabled selected>-- Escolha um Opção --</option>
+                        <option value="AUDI">Audi</option>
+                        <option value="BMW">BMW</option>
+                        <option value="BYD">BYD</option>
+                        <option value="CAOA CHERY">Caoa Chery</option>
+                        <option value="CHEVROLET">Chevrolet</option>
+                        <option value="CITROËN">Citroën</option>
+                        <option value="DAFRA">Dafra</option>
+                        <option value="DODGE">Dodge</option>
+                        <option value="FERRARI">Ferrari</option>
+                        <option value="FIAT">Fiat</option>
+                        <option value="FORD">Ford</option>
+                        <option value="HONDA">Honda</option>
+                        <option value="HYUNDAI">Hyundai</option>
+                        <option value="JAC MOTORS">Jac Motors</option>
+                        <option value="JEEP">Jeep</option>
+                        <option value="KIA">Kia</option>
+                        <option value="LAND ROVER">Land Rover</option>
+                        <option value="LEXUS">Lexus</option>
+                        <option value="MASERATI">Maserati</option>
+                        <option value="MITSUBISHI">Mitsubishi</option>
+                        <option value="NISSAN">Nissan</option>
+                        <option value="PEUGEOT">Peugeot</option>
+                        <option value="PORSCHE">Porsche</option>
+                        <option value="RAM">RAM</option>
+                        <option value="RENAULT">Renault</option>
+                        <option value="SUZUKI">Suzuki</option>
+                        <option value="TOYOTA">Toyota</option>
+                        <option value="VOLKSWAGEN">Volkswagen</option>
+                        <option value="VOLVO">Volvo</option>
+                        <option value="OUTOS">outros</option>
+                    </select>
+                    <span asp-validation-for="@Model.Brand" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
                     <label asp-for="@Model.Model" class="form-label"></label>
                     <input asp-for="@Model.Model" class="form-control" >
+                    <span asp-validation-for="@Model.Model" class="text-danger"></span>
                 </div>
                 <div class="mb-3">
                     <label asp-for="@Model.Color" class="form-label"></label>
                     <input asp-for="@Model.Color" class="form-control" >
+                    <span asp-validation-for="@Model.Color" class="text-danger"></span>
                 </div>
                 <button class="btn btn-outline-success" type="submit">Cadastrar</button>
             </form>

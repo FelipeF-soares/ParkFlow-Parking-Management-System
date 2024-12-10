@@ -12,16 +12,16 @@ public class Vehicle
 {
     [Key]
     public int Id { get; set; }
-    [Required]
+    [Required(ErrorMessage ="Campo obrigatório")]
     [DisplayName("Placa")]
     public string LicensePlate { get; set; }
-    [Required]
+    [Required(ErrorMessage = "Campo obrigatório")]
     [DisplayName("Marca")]
     public string Brand { get; set; }
-    [Required]
+    [Required(ErrorMessage = "Campo obrigatório")]
     [DisplayName("Modelo")]
     public string Model { get; set; }
-    [Required]
+    [Required(ErrorMessage = "Campo obrigatório")]
     [DisplayName("Cor")]
     public string Color { get; set; }
 }

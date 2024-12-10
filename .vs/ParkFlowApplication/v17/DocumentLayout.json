@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "F:\\0.Projetos\\ParkFlowApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|f:\\0.projetos\\parkflowapplication\\parkflowapplication\\areas\\admin\\controllers\\accessregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|solutionrelative:parkflowapplication\\areas\\admin\\controllers\\accessregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|f:\\0.projetos\\parkflowapplication\\parkflowapplication\\areas\\admin\\views\\accessregister\\addvehicle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|solutionrelative:parkflowapplication\\areas\\admin\\views\\accessregister\\addvehicle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|f:\\0.projetos\\parkflowapplication\\parkflowmodels\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|solutionrelative:parkflowmodels\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Thing\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ParkFlowModels\\Thing\\Vehicle.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Thing\\Vehicle.cs",
+              "RelativeToolTip": "ParkFlowModels\\Thing\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:45:17.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccessRegisterController.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Controllers\\AccessRegisterController.cs",
+              "RelativeDocumentMoniker": "ParkFlowApplication\\Areas\\Admin\\Controllers\\AccessRegisterController.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Controllers\\AccessRegisterController.cs",
+              "RelativeToolTip": "ParkFlowApplication\\Areas\\Admin\\Controllers\\AccessRegisterController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwD4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:43:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AddVehicle.cshtml",
               "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Views\\AccessRegister\\AddVehicle.cshtml",
               "RelativeDocumentMoniker": "ParkFlowApplication\\Areas\\Admin\\Views\\AccessRegister\\AddVehicle.cshtml",
               "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Views\\AccessRegister\\AddVehicle.cshtml",
               "RelativeToolTip": "ParkFlowApplication\\Areas\\Admin\\Views\\AccessRegister\\AddVehicle.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-10T17:42:41.291Z",
               "EditorCaption": ""
