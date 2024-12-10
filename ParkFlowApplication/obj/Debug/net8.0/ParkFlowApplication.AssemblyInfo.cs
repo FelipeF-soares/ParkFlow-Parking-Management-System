@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParkFlowApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba9a671e24bd4229eef9677e3e2fd74762ce841a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a4ba6c36d2cf738fa0ebfeb56798b9a2c9ea96")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParkFlowApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParkFlowApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

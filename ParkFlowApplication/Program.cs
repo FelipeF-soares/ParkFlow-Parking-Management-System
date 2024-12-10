@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ParkFlowData.DataBaseContext;
+using ParkFlowData.Repository;
+using ParkFlowData.Repository.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,10 @@ builder.Services.AddDbContext<ParkFlowContext>
     (
         option => option.UseMySql(stringConnection,ServerVersion.AutoDetect(stringConnection))
     );
+
+builder.Services.AddScoped<IVehiclePersist, VehiclePersist>();
+builder.Services.AddScoped<IEntryExitAccessPersist, EntryExitAccessPersist>();
+builder.Services.AddScoped (typeof(IGenericPersist<>), typeof(GenericPersist<>));
 
 var app = builder.Build();
 

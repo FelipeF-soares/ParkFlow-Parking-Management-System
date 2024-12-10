@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "F:\\0.Projetos\\ParkFlowApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\migrations\\20241209220905_createnewdbparkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\migrations\\20241209220905_createnewdbparkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|F:\\0.Projetos\\ParkFlowApplication\\parkflowapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|f:\\0.projetos\\parkflowapplication\\parkflowapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|solutionrelative:parkflowapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\databasecontext\\parkflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\databasecontext\\parkflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\repository\\entryexitaccesspersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\repository\\entryexitaccesspersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|f:\\0.projetos\\parkflowapplication\\parkflowapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|solutionrelative:parkflowapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\repository\\vehiclepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\repository\\vehiclepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\parkflowdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\parkflowdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\repository\\genericpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\repository\\genericpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|f:\\0.projetos\\parkflowapplication\\parkflowmodels\\event\\entryexitaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|solutionrelative:parkflowmodels\\event\\entryexitaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\repository\\interfaces\\ivehiclepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\repository\\interfaces\\ivehiclepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|F:\\0.Projetos\\ParkFlowApplication\\parkflowmodels\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|solutionrelative:parkflowmodels\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\repository\\interfaces\\igenericpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\repository\\interfaces\\igenericpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|f:\\0.projetos\\parkflowapplication\\parkflowdata\\repository\\interfaces\\ientryexitaccesspersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF16BC01-B62F-4272-B13D-DAE7C216EA49}|ParkFlowData\\ParkFlowData.csproj|solutionrelative:parkflowdata\\repository\\interfaces\\ientryexitaccesspersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241209220905_CreateNewDbParkFlow.cs",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Migrations\\20241209220905_CreateNewDbParkFlow.cs",
-              "RelativeDocumentMoniker": "ParkFlowData\\Migrations\\20241209220905_CreateNewDbParkFlow.cs",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Migrations\\20241209220905_CreateNewDbParkFlow.cs",
-              "RelativeToolTip": "ParkFlowData\\Migrations\\20241209220905_CreateNewDbParkFlow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T22:09:11.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "ParkFlowApplication\\appsettings.json",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\appsettings.json",
-              "RelativeToolTip": "ParkFlowApplication\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T22:01:58.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ParkFlowContext.cs",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\DataBaseContext\\ParkFlowContext.cs",
-              "RelativeDocumentMoniker": "ParkFlowData\\DataBaseContext\\ParkFlowContext.cs",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\DataBaseContext\\ParkFlowContext.cs",
-              "RelativeToolTip": "ParkFlowData\\DataBaseContext\\ParkFlowContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:50:55.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ParkFlowData",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\ParkFlowData.csproj",
-              "RelativeDocumentMoniker": "ParkFlowData\\ParkFlowData.csproj",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\ParkFlowData.csproj",
-              "RelativeToolTip": "ParkFlowData\\ParkFlowData.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-09T21:45:12.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EntryExitAccess.cs",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Event\\EntryExitAccess.cs",
-              "RelativeDocumentMoniker": "ParkFlowModels\\Event\\EntryExitAccess.cs",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Event\\EntryExitAccess.cs",
-              "RelativeToolTip": "ParkFlowModels\\Event\\EntryExitAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:16:33.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Program.cs",
               "RelativeDocumentMoniker": "ParkFlowApplication\\Program.cs",
               "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Program.cs",
               "RelativeToolTip": "ParkFlowApplication\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:52:45.238Z",
+              "WhenOpened": "2024-12-10T00:12:21.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntryExitAccessPersist.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\EntryExitAccessPersist.cs",
+              "RelativeDocumentMoniker": "ParkFlowData\\Repository\\EntryExitAccessPersist.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\EntryExitAccessPersist.cs",
+              "RelativeToolTip": "ParkFlowData\\Repository\\EntryExitAccessPersist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:03:39.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiclePersist.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\VehiclePersist.cs",
+              "RelativeDocumentMoniker": "ParkFlowData\\Repository\\VehiclePersist.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\VehiclePersist.cs",
+              "RelativeToolTip": "ParkFlowData\\Repository\\VehiclePersist.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:58:46.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericPersist.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\GenericPersist.cs",
+              "RelativeDocumentMoniker": "ParkFlowData\\Repository\\GenericPersist.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\GenericPersist.cs",
+              "RelativeToolTip": "ParkFlowData\\Repository\\GenericPersist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:46:17.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Thing\\Vehicle.cs",
-              "RelativeDocumentMoniker": "ParkFlowModels\\Thing\\Vehicle.cs",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Thing\\Vehicle.cs",
-              "RelativeToolTip": "ParkFlowModels\\Thing\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Title": "IEntryExitAccessPersist.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\Interfaces\\IEntryExitAccessPersist.cs",
+              "RelativeDocumentMoniker": "ParkFlowData\\Repository\\Interfaces\\IEntryExitAccessPersist.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\Interfaces\\IEntryExitAccessPersist.cs",
+              "RelativeToolTip": "ParkFlowData\\Repository\\Interfaces\\IEntryExitAccessPersist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:10:59.052Z",
+              "WhenOpened": "2024-12-09T23:31:03.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehiclePersist.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\Interfaces\\IVehiclePersist.cs",
+              "RelativeDocumentMoniker": "ParkFlowData\\Repository\\Interfaces\\IVehiclePersist.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\Interfaces\\IVehiclePersist.cs",
+              "RelativeToolTip": "ParkFlowData\\Repository\\Interfaces\\IVehiclePersist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:24:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericPersist.cs",
+              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\Interfaces\\IGenericPersist.cs",
+              "RelativeDocumentMoniker": "ParkFlowData\\Repository\\Interfaces\\IGenericPersist.cs",
+              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\Repository\\Interfaces\\IGenericPersist.cs",
+              "RelativeToolTip": "ParkFlowData\\Repository\\Interfaces\\IGenericPersist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:22:54.065Z",
               "EditorCaption": ""
             }
           ]
