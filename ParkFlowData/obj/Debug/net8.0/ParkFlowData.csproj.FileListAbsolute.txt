@@ -15,6 +15,7 @@ C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\refint\Pa
 C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.pdb
 C:\github\Algortimos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ref\ParkFlowData.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.deps.json
+F:\0.Projetos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.runtimeconfig.json
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.pdb
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowModels.dll
@@ -29,6 +30,5 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlow.3CED9B7
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\refint\ParkFlowData.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.pdb
-F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ref\ParkFlowData.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowData\bin\Debug\net8.0\ParkFlowData.runtimeconfig.json
 F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ParkFlowData.genruntimeconfig.cache
+F:\0.Projetos\ParkFlowApplication\ParkFlowData\obj\Debug\net8.0\ref\ParkFlowData.dll

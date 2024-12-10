@@ -256,9 +256,17 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -269,6 +277,7 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\MySqlConnector.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\NuGet.Common.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\NuGet.Configuration.dll
@@ -279,6 +288,7 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\NuGet.Pac
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\NuGet.ProjectModel.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\NuGet.Protocol.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\System.CodeDom.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -455,6 +465,7 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\staticweb
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ParkFlowApplication.props
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ParkFlowApplication.props
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\staticwebassets.pack.json
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\scopedcss\bundle\ParkFlowApplication.styles.css
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\scopedcss\projectbundle\ParkFlowApplication.bundle.scp.css
@@ -464,14 +475,3 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\refint\Pa
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ParkFlowApplication.pdb
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ParkFlowApplication.genruntimeconfig.cache
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ref\ParkFlowApplication.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\MySqlConnector.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
-F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css

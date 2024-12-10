@@ -56,6 +56,7 @@ public class AccessRegisterController : Controller
             {
                 vehicleGenericPersist.Add(vehicle);
                 vehicleGenericPersist.SaveChanges();
+                TempData["success"] = "Veículo cadastrado com sucesso!";
                 return RedirectToAction("Index", "AccessRegister", new { licensePlate = vehicle.LicensePlate });
             }
             catch (DbUpdateException)
