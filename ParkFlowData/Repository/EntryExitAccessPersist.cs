@@ -32,4 +32,9 @@ public class EntryExitAccessPersist : IEntryExitAccessPersist
                                               .AsNoTracking();
         return parked;
     }
+    public EntryExitAccess GetExitAccessForId(int id)
+    {
+        return context.EntryExitAccesses.FirstOrDefault(access => access.Id == id);
+
+    }
 }

@@ -30,4 +30,9 @@ public class GenericPersist<T> : IGenericPersist<T> where T : class
     {
        return context.SaveChanges() > 0;
     }
+
+    public void Update(T entity)
+    {
+        context.Update(entity);
+    }
 }

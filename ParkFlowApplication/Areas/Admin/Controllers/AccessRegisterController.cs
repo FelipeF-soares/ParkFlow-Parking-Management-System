@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using ParkFlowData.Repository;
 using ParkFlowData.Repository.Interfaces;
 using ParkFlowModels.Event;
 using ParkFlowModels.Thing;
@@ -91,5 +92,20 @@ public class AccessRegisterController : Controller
         }
         
         return RedirectToAction("Index");
+    }
+    public IActionResult ListVehiclesParking()
+    {
+        var listParking = accessPersist.GetVehiclesParked().ToList();
+        return View(listParking);
+    }
+    public IActionResult RegisterExit(int id)
+    {
+        var access = accessPersist.GetExitAccessForId(id);
+        access.ExitTime = DateTime.Now;
+        access.Status = false;
+        entryExitAccessPersist.Update(access);
+        entryExitAccessPersist.SaveChanges();
+        TempData["success"] = "Saída Registrada com sucesso!";
+        return RedirectToAction("ListVehiclesParking");
     }
 }
