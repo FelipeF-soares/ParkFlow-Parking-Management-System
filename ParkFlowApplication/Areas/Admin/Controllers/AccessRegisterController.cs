@@ -26,17 +26,22 @@ public class AccessRegisterController : Controller
         this.vehiclePersist = vehiclePersist;
         this.accessPersist = accessPersist;
     }
-    [HttpGet]
-    public IActionResult Index()
-    {
-        return View();
-    }
+    
 
-    [HttpPost]
+    [HttpGet]
     public IActionResult Index(string? licensePlate)
     {
         EntryExitAccess entryExitAccess = new EntryExitAccess();
+        if (licensePlate == null)
+        {
+            return View(entryExitAccess);
+        }
         var vehicle = vehiclePersist.GetVehicleByLicensePlate(licensePlate);
+        if(vehicle == null)
+        {
+            TempData["error"] = "Não Localizado!";
+            return View(entryExitAccess);
+        }
         entryExitAccess.Vehicle = vehicle;
         entryExitAccess.VehicleId = vehicle.Id;
 
@@ -57,7 +62,7 @@ public class AccessRegisterController : Controller
                 vehicleGenericPersist.Add(vehicle);
                 vehicleGenericPersist.SaveChanges();
                 TempData["success"] = "Veículo cadastrado com sucesso!";
-                return RedirectToAction("Index", "AccessRegister", new { licensePlate = vehicle.LicensePlate });
+                return RedirectToAction("Index", "AccessRegister", new { licensePlate = vehicle.LicensePlate});
             }
             catch (DbUpdateException)
             {
@@ -65,5 +70,26 @@ public class AccessRegisterController : Controller
             }
         }
         return View(vehicle);
+    }
+
+    [HttpPost]
+    public IActionResult Register(EntryExitAccess entryExitAccess) 
+    {
+        try
+        {
+            entryExitAccess.EntryTime = DateTime.Now;
+            entryExitAccess.Status = true;
+            entryExitAccess.VehicleId = entryExitAccess.VehicleId;
+            entryExitAccess.Vehicle = null;
+            entryExitAccessPersist.Add(entryExitAccess);
+            entryExitAccessPersist.SaveChanges();
+            TempData["success"] = "Entrada Registrada com sucesso!";
+        }
+        catch (DbUpdateException)
+        {
+            TempData["error"] = "Erro! Entrada não registrada!";
+        }
+        
+        return RedirectToAction("Index");
     }
 }
