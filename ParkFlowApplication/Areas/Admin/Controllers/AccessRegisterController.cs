@@ -4,6 +4,8 @@ using ParkFlowData.Repository;
 using ParkFlowData.Repository.Interfaces;
 using ParkFlowModels.Event;
 using ParkFlowModels.Thing;
+using System.Data;
+using System.Data.Common;
 
 namespace ParkFlowApplication.Areas.Admin.Controllers;
 [Area("Admin")]
@@ -78,6 +80,15 @@ public class AccessRegisterController : Controller
     {
         try
         {
+            var listVehiclePark = accessPersist.GetVehiclesParked();
+
+            foreach(var access in listVehiclePark)
+            {
+                if(access.Vehicle.Id == entryExitAccess.VehicleId) 
+                {
+                    throw new DuplicateNameException();
+                }
+            }
             entryExitAccess.EntryTime = DateTime.Now;
             entryExitAccess.Status = true;
             entryExitAccess.VehicleId = entryExitAccess.VehicleId;
@@ -90,7 +101,11 @@ public class AccessRegisterController : Controller
         {
             TempData["error"] = "Erro! Entrada não registrada!";
         }
-        
+        catch (DuplicateNameException)
+        {
+            TempData["error"] = "Erro! Veículo já esta estacionado!";
+        }
+
         return RedirectToAction("Index");
     }
     public IActionResult ListVehiclesParking()

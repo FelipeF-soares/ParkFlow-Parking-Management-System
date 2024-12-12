@@ -30,7 +30,16 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="nav-link text-dark" asp-area="Admin" asp-controller="AccessRegister" asp-action="Index">Entrada</a></li>
-                                <li><a class="nav-link text-dark" asp-area="Admin" asp-controller="AccessRegister" asp-action="Index">Saída</a></li>
+                                <li><a class="nav-link text-dark" asp-area="Admin" asp-controller="AccessRegister" asp-action="ListVehiclesParking">Saída</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Relatório
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="nav-link text-dark" asp-area="Admin" asp-controller="AccessRegister" asp-action="VehiclesParking">Estacionados</a></li>
+                                <li><a class="nav-link text-dark" asp-area="Admin" asp-controller="AccessRegister" asp-action="FindForDate">Buscar por Data</a></li>
                             </ul>
                         </li>
                     </ul>

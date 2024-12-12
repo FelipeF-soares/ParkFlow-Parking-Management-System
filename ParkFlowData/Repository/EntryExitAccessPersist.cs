@@ -35,6 +35,5 @@ public class EntryExitAccessPersist : IEntryExitAccessPersist
     public EntryExitAccess GetExitAccessForId(int id)
     {
         return context.EntryExitAccesses.FirstOrDefault(access => access.Id == id);
-
     }
 }
