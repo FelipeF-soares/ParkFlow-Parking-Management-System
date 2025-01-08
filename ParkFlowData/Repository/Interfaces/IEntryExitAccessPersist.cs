@@ -11,6 +11,7 @@ public interface IEntryExitAccessPersist
 {
     IEnumerable<EntryExitAccess> GetAllAccess();
     IEnumerable<EntryExitAccess> GetVehiclesParked();
+    IEnumerable<EntryExitAccess> GetVehiclesToday();
     EntryExitAccess GetExitAccessForId(int id);
 
 }

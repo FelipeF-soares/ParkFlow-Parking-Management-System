@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\wwwroot\\images\\logoBlack.png",
+      "PackagePath": "staticwebassets\\images\\logoBlack.png"
+    },
+    {
       "Id": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

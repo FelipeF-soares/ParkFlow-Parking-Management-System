@@ -36,4 +36,10 @@ public class EntryExitAccessPersist : IEntryExitAccessPersist
     {
         return context.EntryExitAccesses.FirstOrDefault(access => access.Id == id);
     }
+
+    public IEnumerable<EntryExitAccess> GetVehiclesToday()
+    {
+        var data = DateTime.Now;
+        return context.EntryExitAccesses.Include(acess => acess.Vehicle).Where(date => date.EntryTime.Value.Date == data.Date).AsNoTracking();
+    }
 }

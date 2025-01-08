@@ -1,0 +1,44 @@
+﻿@model List<EntryExitAccess>
+
+<div class="container">
+    <div class="card shadow">
+        <div class="card-header">
+            <h3>Veículos Estacionados em @DateTime.Now.Date.ToString("dd/MM/yy")</h3>
+        </div>
+        <div class="card-body">
+            @if (Model.Count <= 0)
+            {
+                <h4 class="text-center">Não Existe Veículos Estacionados</h4>
+            }
+            else
+            {
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Placa</th>
+                            <th scope="col">Marca</th>
+                            <th scope="col">Modelo</th>
+                            <th scope="col">Cor</th>
+                            <th scope="col">Horário Entrada</th>
+                            <th scope="col">Horário Saída</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var park in @Model)
+                        {
+                            <tr>
+                                <th scope="row">@park.Vehicle.LicensePlate</th>
+                                <td>@park.Vehicle.Brand</td>
+                                <td>@park.Vehicle.Model</td>
+                                <td>@park.Vehicle.Color</td>
+                                <td>@park.EntryTime.ToString()</td>
+                                <td>@park.ExitTime.ToString()</td>
+                                
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</div>

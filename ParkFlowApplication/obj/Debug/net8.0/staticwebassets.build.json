@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QlDK1TRbN+hpek1pYBnWdI2H1cuc/fAi5shkPgBl9wc=",
+  "Hash": "n7YqgO194hB6MU3JRmygrzbKcYf0gfJLtgkIum864h0=",
   "Source": "ParkFlowApplication",
   "BasePath": "_content/ParkFlowApplication",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\wwwroot\\images\\logoBlack.png",
+      "SourceId": "ParkFlowApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\wwwroot\\",
+      "BasePath": "_content/ParkFlowApplication",
+      "RelativePath": "images/logoBlack.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logoBlack.png"
     },
     {
       "Identity": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\wwwroot\\js\\site.js",
