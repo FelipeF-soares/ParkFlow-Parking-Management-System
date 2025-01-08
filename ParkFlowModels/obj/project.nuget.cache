@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "68WuXmObxNiajnSFRsvkmGI9qss/R/rzeSh9tg9ti+lMp8Awg+vi1I4wSC9SlCfWDjhYTvP8rlAp18SAmOwMAg==",
+  "dgSpecHash": "blI7648a9hFHXirwN3f+IjWwKAm+88rEWiP1wHrW72HxzeteU9J/MllgcsuK/kj4XQXNKjNSV9Al1liMx2kofg==",
   "success": true,
   "projectFilePath": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\ParkFlowModels.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\f150030\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\f150030\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'iTextSharp 5.5.13.4' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

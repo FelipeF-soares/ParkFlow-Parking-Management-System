@@ -22,3 +22,4 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels
 F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\refint\ParkFlowModels.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.pdb
 F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ref\ParkFlowModels.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.csproj.AssemblyReference.cache

@@ -4,6 +4,7 @@
     <div class="card shadow">
         <div class="card-header">
             <h3>Veículos Estacionados em @DateTime.Now.Date.ToString("dd/MM/yy")</h3>
+            <a asp-area="Admin" asp-controller="Reports" asp-action="ReportGetAllVehicleToday" class="btn btn-outline-success bt-sm">Relatório</a>
         </div>
         <div class="card-body">
             @if (Model.Count <= 0)

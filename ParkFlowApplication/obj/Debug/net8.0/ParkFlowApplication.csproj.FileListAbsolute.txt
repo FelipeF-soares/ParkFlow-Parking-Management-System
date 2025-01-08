@@ -475,3 +475,5 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\refint\Pa
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ParkFlowApplication.pdb
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ParkFlowApplication.genruntimeconfig.cache
 F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\obj\Debug\net8.0\ref\ParkFlowApplication.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\0.Projetos\ParkFlowApplication\ParkFlowApplication\bin\Debug\net8.0\itextsharp.dll
