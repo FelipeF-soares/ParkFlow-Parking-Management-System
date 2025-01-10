@@ -2232,23 +2232,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\f150030\\.nuget\\packages\\": {},
+    "C:\\Users\\Felipe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\ParkFlowData.csproj",
+      "projectUniqueName": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\ParkFlowData.csproj",
       "projectName": "ParkFlowData",
-      "projectPath": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\ParkFlowData.csproj",
-      "packagesPath": "C:\\Users\\f150030\\.nuget\\packages\\",
-      "outputPath": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\obj\\",
+      "projectPath": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\ParkFlowData.csproj",
+      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+      "outputPath": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\f150030\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2264,8 +2264,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\ParkFlowModels.csproj": {
-              "projectPath": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\ParkFlowModels.csproj"
+            "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\ParkFlowModels.csproj": {
+              "projectPath": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\ParkFlowModels.csproj"
             }
           }
         }
@@ -2316,7 +2316,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

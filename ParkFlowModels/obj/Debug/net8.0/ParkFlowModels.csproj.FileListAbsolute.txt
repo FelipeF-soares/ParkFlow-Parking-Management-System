@@ -23,3 +23,16 @@ F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\refint\ParkFlo
 F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.pdb
 F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ref\ParkFlowModels.dll
 F:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.csproj.AssemblyReference.cache
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\bin\Debug\net8.0\ParkFlowModels.deps.json
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\bin\Debug\net8.0\ParkFlowModels.dll
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\bin\Debug\net8.0\ParkFlowModels.pdb
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.csproj.AssemblyReference.cache
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.AssemblyInfoInputs.cache
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.AssemblyInfo.cs
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.csproj.CoreCompileInputs.cache
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.sourcelink.json
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.dll
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\refint\ParkFlowModels.dll
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ParkFlowModels.pdb
+D:\0.Projetos\ParkFlowApplication\ParkFlowModels\obj\Debug\net8.0\ref\ParkFlowModels.dll

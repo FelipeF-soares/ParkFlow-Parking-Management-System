@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\0.Projetos\\ParkFlowApplication\\",
+  "WorkspaceRootPath": "D:\\0.Projetos\\ParkFlowApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|f:\\0.projetos\\parkflowapplication\\parkflowapplication\\areas\\admin\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|d:\\0.projetos\\parkflowapplication\\parkflowmodels\\report\\vehiclestoday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67C360C-5719-4E41-A0A7-FA06B673762D}|ParkFlowModels\\ParkFlowModels.csproj|solutionrelative:parkflowmodels\\report\\vehiclestoday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|d:\\0.projetos\\parkflowapplication\\parkflowapplication\\areas\\admin\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|solutionrelative:parkflowapplication\\areas\\admin\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|f:\\0.projetos\\parkflowapplication\\parkflowapplication\\areas\\admin\\views\\reports\\getallvehiclestoday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|d:\\0.projetos\\parkflowapplication\\parkflowapplication\\areas\\admin\\views\\reports\\getallvehiclestoday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2442A1D5-4C59-4849-B713-7C099D82A33D}|ParkFlowApplication\\ParkFlowApplication.csproj|solutionrelative:parkflowapplication\\areas\\admin\\views\\reports\\getallvehiclestoday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "VehiclesToday.cs",
+              "DocumentMoniker": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Report\\VehiclesToday.cs",
+              "RelativeDocumentMoniker": "ParkFlowModels\\Report\\VehiclesToday.cs",
+              "ToolTip": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\Report\\VehiclesToday.cs",
+              "RelativeToolTip": "ParkFlowModels\\Report\\VehiclesToday.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAzwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:52:27.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GetAllVehiclesToday.cshtml",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Views\\Reports\\GetAllVehiclesToday.cshtml",
+              "DocumentMoniker": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Views\\Reports\\GetAllVehiclesToday.cshtml",
               "RelativeDocumentMoniker": "ParkFlowApplication\\Areas\\Admin\\Views\\Reports\\GetAllVehiclesToday.cshtml",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Views\\Reports\\GetAllVehiclesToday.cshtml",
+              "ToolTip": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Views\\Reports\\GetAllVehiclesToday.cshtml",
               "RelativeToolTip": "ParkFlowApplication\\Areas\\Admin\\Views\\Reports\\GetAllVehiclesToday.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-08T20:49:43.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReportsController.cs",
-              "DocumentMoniker": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Controllers\\ReportsController.cs",
+              "DocumentMoniker": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "ParkFlowApplication\\Areas\\Admin\\Controllers\\ReportsController.cs",
-              "ToolTip": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowApplication\\Areas\\Admin\\Controllers\\ReportsController.cs",
               "RelativeToolTip": "ParkFlowApplication\\Areas\\Admin\\Controllers\\ReportsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T20:44:26.475Z",
               "EditorCaption": ""

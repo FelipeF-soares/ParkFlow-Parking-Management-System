@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "blI7648a9hFHXirwN3f+IjWwKAm+88rEWiP1wHrW72HxzeteU9J/MllgcsuK/kj4XQXNKjNSV9Al1liMx2kofg==",
+  "dgSpecHash": "VrGagbnOg58=",
   "success": true,
-  "projectFilePath": "F:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\ParkFlowModels.csproj",
+  "projectFilePath": "D:\\0.Projetos\\ParkFlowApplication\\ParkFlowModels\\ParkFlowModels.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\f150030\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
-    "C:\\Users\\f150030\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
+    "C:\\Users\\Felipe\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
   ],
   "logs": [
     {

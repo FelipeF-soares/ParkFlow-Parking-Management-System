@@ -34,7 +34,7 @@ public class VehiclesToday
         pdf.Open();
         var title = MakeTitle("Report Parking", 32);
         pdf.Add(title);
-        string logoPath = wwwRootPath + @"\imagens\logoBlack.png";
+        string logoPath = wwwRootPath + @"\images\logoBlack.png";
         AddLogo(logoPath,pdf,write);
         if (accesses.Any())
         {
@@ -43,6 +43,7 @@ public class VehiclesToday
             var table = MakeTable(6, widhtCol);
             LinkCellInTable(table,valueList);
             LinkValueInCell(table,accesses);
+            pdf.Add(table);
 
         }
         else
@@ -52,7 +53,7 @@ public class VehiclesToday
         }
         pdf.Close();
         folder.Close();
-        return wwwRootPath + reportName;
+        return wwwRootPath +"\\report\\"+ reportName;
         
     }
     private Document ConfigurationOfPage(float leftSide,float rightSide, float top, float bottom, bool horizontal)
@@ -166,11 +167,11 @@ public class VehiclesToday
         {
             iTextSharp.text.Image logo = iTextSharp.text.Image.GetInstance(logoPath);
             float widthForHeight = logo.Width / logo.Height;
-            float heightLogo = 90;
+            float heightLogo = 200;
             float widthLogo = heightLogo * widthForHeight;
             logo.ScaleToFit(widthLogo, heightLogo);
             var marginLeft = pdf.PageSize.Width - pdf.RightMargin - widthLogo;
-            var marginTop = pdf.PageSize.Height - pdf.TopMargin - 54;
+            var marginTop = pdf.PageSize.Height - pdf.TopMargin - 140;
             logo.SetAbsolutePosition(marginLeft, marginTop);
             writer.DirectContent.AddImage(logo);
         }
